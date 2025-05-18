@@ -66,7 +66,7 @@ This dashboard empowered stakeholders to interactively explore insights across d
 
 # Project 2
 
-**Title:** [Customers Loan Insights](https://github.com/Osiwi/github.io/blob/main/Loan.png)
+**Title:** [Customers Loan Insights](https://github.com/Osiwi/github.io/blob/main/Loan_Sanction_Cleaned.xlsx)
 
 **Tools & Technologies Used:** 
 Microsoft Excel: Primary platform for data analysis and dashboard development.
@@ -105,7 +105,7 @@ Females have slightly longer loan terms, which may imply different repayment str
 
 # Project 3
 
-**Title:** [E-Commerce Performance Insights](https://github.com/Osiwi/github.io/blob/main/Clothing%20Firm%20Data%20Cleaned.xlsx)
+**Title:** [E-Commerce Performance Insights](https://github.com/Osiwi/github.io/blob/main/ecommerce_cleaned_final.xlsx)
 
 **Tools & Technologies Used:** 
 
