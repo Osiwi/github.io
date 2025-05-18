@@ -224,6 +224,14 @@ This Insurance Policy Dashboard effectively transforms raw insurance policy data
 
 # Project 6
 
+**Title:** [Insurance Policy Insights](https://github.com/Osiwi/github.io/blob/main/Insurance%20Policies%20Data%20Cleaned.xlsx)
+
+**Tools & Technologies Used:** 
+
+
+
+# Project 7
+
 **Title:**
 Employee Data Interogation and Manipulation
 
