@@ -186,9 +186,41 @@ This HR dashboard transforms employee data into a visually engaging, actionable 
 
 # Project 5
 
-**Title:** [Insurance Policy Insights](https://github.com/Osiwi/github.io/blob/main/HR_Employee_Data%20Cleaned.xlsx)
+**Title:** [Insurance Policy Insights](https://github.com/Osiwi/github.io/blob/main/Insurance%20Policies%20Data%20Cleaned.xlsx)
 
 **Tools & Technologies Used:** 
+Microsoft Excel: Main platform used for dashboard development.
+Pivot Tables & Pivot Charts: Used to summarize insured values across business types, locations, and hazards.
+Slicers & Timeline Filters: Allow users to filter by business type, region, state, flood, earthquake, construction type, and date.
+Combo and Pie Charts: Provide comparative and categorical views of insured values.
+Power Query (Get & Transform): Used for cleaning and transforming the raw insurance data.
+Conditional Formatting: Applied to emphasize high-risk areas and high-value regions.
+
+**Project Description Overview:**
+This Excel-based interactive dashboard was designed to provide a comprehensive view of insurance policy distributions and insured values across different business types, geographic regions, and risk categories. It offers stakeholders a dynamic way to explore insured property values and assess risk exposure based on factors like location, flood/earthquake vulnerability, and construction type.
+
+**Objective:**
+To analyze and visualize insured property values and policy trends across business sectors and geographical zones, helping insurance analysts and underwriters identify risk concentrations, high-value policies, and areas of potential exposure.
+
+**Key Features Included in the Dashboard:**
+Business Type vs Insured Value: Horizontal bar chart showing how various sectors (e.g., Medical, Hospitality, Service) compare in insured value.
+State Insurance Value: Bar chart visualizing insured value contributions by state, with NY leading.
+Region vs Insured Value: Stacked bar chart comparing insured values by region and property type.
+Location vs Insured Value: Pie chart showing urban vs rural value distribution (Urban = 88%, Rural = 12%).
+Construction Type, Earthquake, Flood Filters: Allow interactive analysis based on property risk profiles.
+Expiry Date Timeline: Provides filtering by month or period to view policy distribution over time.
+
+**Key findings:**
+Urban areas account for 88% of the total insured value, indicating concentrated policy value in metropolitan zones.
+New York has the highest insured value by state, followed by other northeastern states.
+Apartments and Hospitality businesses lead in insured value, with some exceeding $1.5 billion.
+The East region dominates in total insured value, particularly in the medical and office building categories.
+Flood and Earthquake-prone properties can be filtered for more focused risk exposure analysis.
+Summary:
+This Insurance Policy Dashboard effectively transforms raw insurance policy data into an interactive tool that supports risk assessment and portfolio analysis. By segmenting data across regions, industries, and risk types, the dashboard empowers insurers and analysts to make informed decisions on underwriting, pricing, and risk management.
+
+**Dashboard Overview:** 
+![Insurance.png](Insurance.png)
 
 # Project 6
 
