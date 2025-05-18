@@ -63,7 +63,17 @@ This dashboard empowered stakeholders to interactively explore insights across d
 **Dashboard Overview:** 
 ![Clothing](Clothing.png)
 
+
 # Project 2
+
+**Title:** [Customer's Loan Insights](https://github.com/Osiwi/github.io/blob/main/Clothing%20Firm%20Data%20Cleaned.xlsx)
+
+**Tools & Technologies Used:** 
+
+
+
+
+# Project 3
 
 **Title:**
 Employee Data Interogation and Manipulation
