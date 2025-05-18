@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:** [Clothing Firm Interactive Dash Board](https://github.com/Osiwi/github.io/blob/main/Clothing%20Firm%20Data%20Cleaned.xlsx)
+**Title:** [Customer Insights and Product Feedback Analysis for a Clothing Firm](https://github.com/Osiwi/github.io/blob/main/Clothing%20Firm%20Data%20Cleaned.xlsx)
 
 **Tools Used:** Microsoft Excel, Pivot Chart, Pivot Table, Conditionerr Formating, Slicer
 
