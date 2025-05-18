@@ -2,7 +2,15 @@
 
 **Title:** [Customer Insights and Product Feedback Analysis for a Clothing Firm](https://github.com/Osiwi/github.io/blob/main/Clothing%20Firm%20Data%20Cleaned.xlsx)
 
-**Tools Used:** Microsoft Excel, Pivot Chart, Pivot Table, Conditionerr Formating, Slicer
+**🛠️ Tools & Technologies Used:** 
+Microsoft Excel: Core platform for building the interactive dashboard.
+Dashboard Layout and Interactivity: Structured layout with dynamic visuals and responsive filters.
+Slicers and Drop-Down Filters: Enabled real-time data filtering by product, fit rating, category, and timeframe.
+Pivot Tables and Pivot Charts: Used for dynamic aggregation and visual representation of data insights.
+Conditional Formatting: Applied for visual cues to highlight trends and key metrics.
+Power Query (Get & Transform): Utilized for cleaning, reshaping, and importing structured datasets.
+Form Controls / Slicers: Added interactivity for end-users to explore multidimensional data.
+Data Model (Power Pivot): Integrated to manage relationships between multiple tables and enable advanced DAX calculations.
 
 **Project Description:** Project Description: This project involved analysing product data of cookies company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
 Profit by Country and Cookies: Visual representation of profits broken down by each country and type of cookie.
