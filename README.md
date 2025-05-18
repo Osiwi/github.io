@@ -19,32 +19,22 @@ Data Model (Power Pivot): Integrated to manage relationships between multiple ta
 **📌 Key Features Included in the Dashboard:** 
 Verified Purchaser Overall Rating
 A pie chart showing average product ratings across different verification languages (e.g., Ja, Oui, Sí), offering a high-level view of customer sentiment.
-
 Product Recommendation and Rating
 Horizontal bar charts indicating the number of recommendations ("Yes"/"No") alongside average ratings for various customer groups.
-
 Verified Purchaser Preference
 Visual breakdown of customer fit perceptions (e.g., Ample, Normal, Looser) segmented by verification group.
-
 Product Average Rating
 Line chart showcasing how individual clothing products are rated, helping identify bestsellers and products needing improvement.
-
 Average Fit by Category
 Bar chart showing how fit ratings differ across categories such as Women, Men, Damen, and Private Store.
 
 **🧭 Interactive Slicers and Filters**
 The dashboard includes dynamic slicers and filters for user-driven exploration:
-
 Product: Focus on specific products for detailed performance analysis.
-
 Fit Rating: Explore data based on how well customers think the products fit.
-
 Verified Language: View feedback from customers using different language options (Yes, Ja, Oui, etc.).
-
 Category: Analyze performance across gender and store-specific categories.
-
 Overall Rating: Filter by specific star ratings to study high or low-rated feedback.
-
 Submission Date: Analyze trends over specific months using the interactive timeline.
  
 **Key findings:**
