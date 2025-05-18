@@ -137,13 +137,20 @@ Pacific Asia and USCA maintain the best balance between sales volume and profit 
 Central America has the highest average profit per order, despite a smaller order quantity—indicating high-margin products.
 Order quantities spike in several categories like Women’s, Fishing, and Boxing, showing demand concentration.
 Customer segment profitability shows diminishing margins from Consumer to Home Office, signaling a need to reassess pricing or marketing strategies.
-Summary
+Summary:
 This e-commerce dashboard brings together complex sales and profitability data into an intuitive, visually compelling format. With strong use of slicers and comparative charts, it serves as a powerful tool for business intelligence teams and decision-makers to optimize performance by geography, product, and customer type.
 
 **Dashboard Overview:** 
 ![E-Commerce.png](E-Commerce.png)
 
 # Project 4
+
+**Title:** [E-Commerce Performance Insights](https://github.com/Osiwi/github.io/blob/main/ecommerce_cleaned_final.xlsx)
+
+**Tools & Technologies Used:** 
+
+
+# Project 5
 
 **Title:**
 Employee Data Interogation and Manipulation
