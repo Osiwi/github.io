@@ -66,7 +66,7 @@ This dashboard empowered stakeholders to interactively explore insights across d
 
 # Project 2
 
-**Title:** [Customers Loan Insights](https://github.com/Osiwi/github.io/blob/main/Clothing%20Firm%20Data%20Cleaned.xlsx)
+**Title:** [Customers Loan Insights](https://github.com/Osiwi/github.io/blob/main/Loan.png)
 
 **Tools & Technologies Used:** 
 Microsoft Excel: Primary platform for data analysis and dashboard development.
