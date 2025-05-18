@@ -341,24 +341,37 @@ This Workplace Safety Dashboard provides an actionable view of incident trends a
 
 # Project 9
 
-**Title:**
-Employee Data Interogation and Manipulation
+**Title:** [Food Product Sales Insight](https://github.com/Osiwi/github.io/blob/main/Food%20Sales%20Data%20Cleaned.xlsx)
 
-**SQL Code:**
-[Employee SQL code](https://github.com/Osiwi/github.io/blob/main/Employee.SQL)
+**Tools & Technologies Used:** 
+Microsoft Excel: Platform for building and analyzing the interactive sales dashboard.
+Pivot Tables & Pivot Charts: Used to summarize total sales, quantities, and pricing by product, city, region, and category.
+Slicers & Timeline Filters: Allow filtering by product, category, city, region, and time (monthly).
+Bar and Column Charts: Visualize top-selling products, regional comparisons, and category performance.
+Power Query (Get & Transform): Used for preparing raw food sales data for pivoting and analysis.
+Conditional Formatting: Used to enhance data interpretation and highlight high-volume categories or regions.
 
-**SQL Skills Used:**
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
- 
-**Project Description:**
-This project focuses on the analysis of a comprehensive dataset containing detailed information about approximately 11,000 football players. The primary objective is to utilize SQL for extracting meaningful insights regarding player demographics, performance metrics, and other relevant attributes.
-Database Design and Implementation: Develop a relational database schema to effectively store and manage the football players' data, ensuring normalization and referential integrity.
-Data Analysis Using SQL: Execute SQL queries to analyze various aspects of the dataset, including: Player demographics (e.g., age, nationality). Performance metrics (e.g., ratings, positions). Financial attributes (e.g., wages, market value).
-Insight Extraction: Identify patterns and trends within the data, such as: Nationalities with the highest representation among players. Correlation between player attributes and performance metrics. Distribution of players across different clubs and leagues.
-Reporting and Visualization: Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of football players' data, offering valuable insights for stakeholders such as team managers, scouts, and analysts
+**Project Description Overview:**
+This Excel-based dashboard was designed to analyze and visualize food product sales across categories, cities, and regions over time. It provides business stakeholders with quick insights into sales trends, high-performing products, and revenue distribution thereby enabling smarter inventory and marketing strategies.
 
-**Technology used:** 
-SQL server
+**Objective:**
+To provide a detailed overview of food product sales by identifying best-selling items, top-performing cities, and regional revenue contributions—empowering food distributors and retailers with data-driven decision support.
+
+**Key Features Included in the Dashboard:**
+Highest Selling Product Chart: Column chart ranking food items by quantity sold.
+Total Sales per Category: Bar chart comparing quantity and unit price contributions across food categories.
+Sales by City: Bar chart breaking down total quantity and price by major cities like Boston, New York, and Los Angeles.
+Region vs Total Price: Horizontal bar chart comparing East vs West regional performance in both sales volume and total revenue.
+Interactive Filters: Slicers for product, category, city, region, and monthly timeline allow dynamic user-driven analysis.
+
+**Key findings:**
+Carrot and Oatmeal Raisin are the top-selling products, outperforming others in total quantity.
+Cookies category leads in both quantity and unit price-based sales, followed by Bars.
+Boston shows the highest total sales value, significantly ahead of other cities.
+The East region contributes the highest revenue, but the West region shows higher average price per item, suggesting premium product positioning.
+Sales peaked between May and July, indicating seasonal consumer behavior.
+Summary:
+This dashboard offers a comprehensive look into food sales trends, helping stakeholders identify where demand is strongest and which products or cities generate the most value. With interactive visuals and slicer-driven filtering, it is a powerful tool for both operational and strategic sales planning in the food distribution industry.
+
+**Dashboard Overview:** 
+![Food-Sales.png](Food-Sales.png)
