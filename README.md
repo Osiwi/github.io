@@ -145,7 +145,7 @@ This e-commerce dashboard brings together complex sales and profitability data i
 
 # Project 4
 
-**Title:** [HR Department Employee Performance Insights](https://github.com/Osiwi/github.io/blob/main/HR_Employee_Data%20Cleaned.xlsx)
+**Title:** [HR Department Employee Insights](https://github.com/Osiwi/github.io/blob/main/HR_Employee_Data%20Cleaned.xlsx)
 
 **Tools & Technologies Used:** 
 
