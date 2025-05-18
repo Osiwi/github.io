@@ -70,7 +70,8 @@ This dashboard empowered stakeholders to interactively explore insights across d
 
 **Tools & Technologies Used:** 
 
-
+**Dashboard Overview:** 
+![Clothing](Clothing.png)
 
 
 # Project 3
