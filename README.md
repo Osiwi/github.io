@@ -151,7 +151,7 @@ This e-commerce dashboard brings together complex sales and profitability data i
 
 
 **Dashboard Overview:** 
-![E-Commerce.png](E-Commerce.png)
+![HR-Department.png](HR-Department.png)
 
 
 # Project 5
