@@ -105,6 +105,12 @@ Females have slightly longer loan terms, which may imply different repayment str
 
 # Project 3
 
+**Title:** [E-Commerce Performance Insights](https://github.com/Osiwi/github.io/blob/main/Clothing%20Firm%20Data%20Cleaned.xlsx)
+
+**Tools & Technologies Used:** 
+
+# Project 4
+
 **Title:**
 Employee Data Interogation and Manipulation
 
