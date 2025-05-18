@@ -39,25 +39,25 @@ Submission Date: Analyze trends over specific months using the interactive timel
  
 **Key findings:**
 The goal was to surface patterns and insights that inform strategic decisions in product design, marketing, and supply chain management. The key findings from the analysis are stated below:
-✅ 1. Consistently High Customer Satisfaction
+✅ 1. Consistently High Customer Satisfaction:
 The overall rating from verified purchasers across different languages (Yes, Ja, Oui, etc.) ranged between 4.0 and 4.7, indicating generally high satisfaction levels.
 The highest average rating (4.7) was observed from "Sí" users, while the lowest (4.0) came from "Sim" users.
-✅ 2. Strong Product Recommendations
+✅ 2. Strong Product Recommendations:
 Customers were overwhelmingly likely to recommend products, with the "Yes" responses significantly outpacing the "No" responses in all categories.
 Average product ratings where customers answered “Yes” were consistently near 4.5–5.0, reinforcing product quality perception.
-✅ 3. Fit Perception Varies by User Segment
+✅ 3. Fit Perception Varies by User Segment:
 Preferences like "Normal", "Ample", and "Looser" dominated fit feedback.
 "Mais justo" (more fitted) and "Ancho" (wide) also appeared notably across some segments.
 Insights suggest the need to regionalize or personalize fit specifications based on customer feedback clusters.
-✅ 4. Top-Performing Products Identified
+✅ 4. Top-Performing Products Identified:
 Products such as “Classic Cotton,” “Curve Suede,” and “Corinne Suede” received perfect 5.0 ratings, signaling strong customer approval.
 Lower-rated products can be reviewed for potential improvements in quality or sizing accuracy.
-✅ 5. Category-Specific Fit Insights
+✅ 5. Category-Specific Fit Insights:
 The “Private Store” category recorded the highest average fit rating (~3.3), suggesting better sizing satisfaction in this group.
 “Damen” category showed the lowest average fit rating (~2.9), highlighting an area for product refinement.
-✅ 6. Review Activity Over Time
+✅ 6. Review Activity Over Time:
 The time slicer shows submission activity across June to October 2024, enabling seasonal trend analysis and campaign performance tracking.
-🧩 Summary
+🧩 Summary:
 This dashboard empowered stakeholders to interactively explore insights across dimensions such as product, region, fit preference, and time, offering an efficient decision-support system. It bridges the gap between raw customer feedback and actionable business intelligence.
 
 **Dashboard Overview:** 
