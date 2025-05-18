@@ -184,8 +184,13 @@ This HR dashboard transforms employee data into a visually engaging, actionable 
 **Dashboard Overview:** 
 ![HR-Department.png](HR-Department.png)
 
-
 # Project 5
+
+**Title:** [Insurance Policy Insights](https://github.com/Osiwi/github.io/blob/main/HR_Employee_Data%20Cleaned.xlsx)
+
+**Tools & Technologies Used:** 
+
+# Project 6
 
 **Title:**
 Employee Data Interogation and Manipulation
