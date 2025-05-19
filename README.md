@@ -454,13 +454,19 @@ Northern Ireland has the lowest unemployment values overall, with the minimum fa
 Wales experienced a drop in unemployment from 2013 to 2020, but signs of recovery are seen in recent years.
 Post-2020 trends suggest gradual recovery in most regions, though economic shocks (e.g., pandemic years) caused visible fluctuations.
 Average unemployment distribution over time remains highly skewed toward England, with Wales and Northern Ireland making up the smallest proportions.
+Summary:
+This Power BI dashboard effectively captures 15 years of UK labor market shifts through interactive and comparative analytics. By combining historical data with dynamic filtering, it allows policymakers and analysts to track progress, identify high-risk periods, and compare regional labor trends for strategic economic planning.
 
 **Dashboard Overview:** 
 ![UK-Unemployment-Trend-2009-to-2024-Dashboard-Power-Bi-19052025-1.png](UK-Unemployment-Trend-2009-to-2024-Dashboard-Power-Bi-19052025-1.png)
 ![UK-Unemployment-Trend-2009-to-2024-Dashboard-Power-Bi-19052025-2.png](UK-Unemployment-Trend-2009-to-2024-Dashboard-Power-Bi-19052025-2.png)
 
 
+# Project 12
 
+**Title:** [UK Unemployment Trend 2009 to 2024](https://github.com/Osiwi/github.io/blob/main/UK%20Unemployment%20Trends.pbix)
+
+**Tools & Technologies Used:**
 
 
 
