@@ -456,7 +456,8 @@ Post-2020 trends suggest gradual recovery in most regions, though economic shock
 Average unemployment distribution over time remains highly skewed toward England, with Wales and Northern Ireland making up the smallest proportions.
 
 **Dashboard Overview:** 
-![UK Unemployment Trend 2009 to 2024.png](UK Unemployment Trend 2009 to 2024 Dashboard_Power Bi_19052025_1.png)
+![UK Unemployment Trend 2009 to 2024 Dashboard_Power Bi_19052025_1.png](UK Unemployment Trend 2009 to 2024 Dashboard_Power Bi_19052025_1.png)
+![UK Unemployment Trend 2009 to 2024 Dashboard_Power Bi_19052025_2.png](UK Unemployment Trend 2009 to 2024 Dashboard_Power Bi_19052025_2.png)
 
 
 
