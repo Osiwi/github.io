@@ -415,6 +415,9 @@ Male customers also dominate across all incident types, but females exhibit slig
 Summary:
 This Power BI dashboard transforms raw transactional and customer interaction data into clear, interactive insights. With its dynamic filters and intuitive visuals, it allows users to explore behavior patterns and optimize sales, promotions, and product targeting efforts. Ideal for use in e-commerce, retail strategy, and digital marketing analytics.
 
+**Dashboard Overview:** 
+![Customer-Insight.png](Customer-Insight.png)
+
 # Project 11
 
 **Title:** [Customers Insight](https://github.com/Osiwi/github.io/blob/main/Customer%20Insight.pbix)
