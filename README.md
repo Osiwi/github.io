@@ -500,6 +500,7 @@ Furniture leads in profit among product categories during the selected time peri
 Total profit during 2022–2023 is $285.08K, with cumulative sales exceeding $4.1M.
 
 **Dashboard Overview:** 
-![Global Superstore Performance Report.png](Global Superstore Performance Report.png)
+![Global-Superstore-Performance-Report.png](Global-Superstore-Performance-Report.png)
+
 
 
