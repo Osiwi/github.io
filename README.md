@@ -420,6 +420,41 @@ This Power BI dashboard transforms raw transactional and customer interaction da
 
 # Project 11
 
-**Title:** [Customers Insight](https://github.com/Osiwi/github.io/blob/main/Customer%20Insight.pbix)
+**Title:** [UK Unemployment Trend 2009 to 2024](https://github.com/Osiwi/github.io/blob/main/UK%20Unemployment%20Trends.pbix)
 
 **Tools & Technologies Used:**
+Power BI Desktop: Main platform for building the interactive dashboard and visuals.
+Power Query: Used for cleaning, transforming, and preparing the time-series unemployment data.
+DAX (Data Analysis Expressions): Employed to compute minimum/maximum unemployment, rolling trends, and average rates.
+Visualizations Used:
+Line Charts & Area Charts: Showed unemployment trends across time.
+Bar & Column Charts: Compared regional unemployment metrics by year.
+Donut & Pie Charts: Displayed unemployment distribution across regions.
+Cards: Highlighted key metrics (min, max unemployment).
+Slicers: Enabled year-based filtering for deeper analysis.
+
+**Project Description Overview:**
+This interactive Power BI dashboard presents an in-depth analysis of unemployment trends across the United Kingdom from 2009 to 2024. The dataset spans England, Scotland, Wales, and Northern Ireland, enabling regional comparison, temporal trend analysis, and data-driven labor market insights. It is designed for policymakers, researchers, and economic analysts.
+
+**Objective:**
+To analyze and visualize unemployment statistics across UK regions over a 15-year period, highlighting historical trends, regional disparities, and employment policy impacts—supporting informed economic decisions and forecasting.
+
+**Key Features Included in the Dashboard:**
+Unemployment Trends by Country (2009–2024): Year-over-year unemployment displayed through bar and line charts for each of the four nations.
+Regional Distribution of Unemployment: Pie and donut charts summarizing the proportional share of unemployment across England, Wales, Scotland, and Northern Ireland.
+Highlight Cards: Displaying region-specific minimum and maximum unemployment figures.
+Timeline Slicer (Trend Timeline): Allows interactive filtering of all visuals by selected years.
+Average Unemployment Rate by Region: Donut chart visualizing multi-year averages across the UK regions.
+Cross-Filtered Layout: All visuals respond to timeline or region filters, offering multi-angle exploration.
+
+**Key findings:**
+England consistently has the highest share of unemployment, peaking at ~2.29M and accounting for over 83% of total UK unemployment.
+Scotland’s unemployment peaked around 2011–2013 but showed a steady decline afterward.
+Northern Ireland has the lowest unemployment values overall, with the minimum falling below 15K by 2024.
+Wales experienced a drop in unemployment from 2013 to 2020, but signs of recovery are seen in recent years.
+Post-2020 trends suggest gradual recovery in most regions, though economic shocks (e.g., pandemic years) caused visible fluctuations.
+Average unemployment distribution over time remains highly skewed toward England, with Wales and Northern Ireland making up the smallest proportions.
+
+**Dashboard Overview:** 
+![UK Unemployment Trend 2009 to 2024.png](UK Unemployment Trend 2009 to 2024 Dashboard_Power Bi_19052025_1.png)(UK Unemployment Trend 2009 to 2024 Dashboard_Power Bi_19052025_2)
+
