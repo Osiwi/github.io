@@ -464,7 +464,7 @@ This Power BI dashboard effectively captures 15 years of UK labor market shifts 
 
 # Project 12
 
-**Title:** [Global Superstore Performance Report](Global Superstore Dashboard.pbix)
+**Title:** [Global Superstore Performance Report](https://github.com/Osiwi/github.io/blob/main/Global%20Superstore%20Dashboard.pbix)
 
 **Tools & Technologies Used:**
 Power BI Desktop: Core platform for building the interactive report and dashboards.
