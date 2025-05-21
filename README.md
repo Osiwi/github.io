@@ -603,7 +603,7 @@ Expected Outcome: Improved long-term health, education, and economic mobility
 -Deprivation Count by Council (Bar)
 -Intra-Area Inequality (Dual Axis Line & Bar)
 -Distribution by Health Board (Pie)
--HSCP & SIMD Rank Insights (Combo + Clustered Bars)
+-HSCP & SIMD Rank Insights (Combo and Clustered Bars)
 
 **Dashboard Overview:** 
 ![DataKirk-UK-Work-Experience-Programme-2025-Assessment-Task.png](DataKirk-UK-Work-Experience-Programme-2025-Assessment-Task.png)
