@@ -14,7 +14,7 @@ Risk classification pipeline that labels assets or portfolios as high-risk vs lo
 Cross-sector ESG and financial performance analysis (Energy, Financial Services, Technology) to score segments, study the tradeoff between sustainability and returns, and inform allocation decisions.  
 [View Repository](https://github.com/Osiwi/ESG_Multisector_Analysis)
 
----
+--- 
 
 ### Safety / Incident Analysis
 
