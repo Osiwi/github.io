@@ -116,7 +116,7 @@ Energy consumption analysis across Scotland’s sectors from 2005–2020, showin
 
 #### Student Course Registration System  
 End-to-end course registration and scheduling platform backed by SQL Server, including data model design, student/course relationships, and reporting.  
-[View Repository]([https://github.com/Osiwi/Student-Course-Registration-System-End-to-End-Data-Management-and-Analysis-Using-SQL-Server](https://github.com/Osiwi/Student-Course-Registration-System-End-to-End-Data-Management-and-Analysis-Using-SQL-Server))
+[View Repository](https://github.com/Osiwi/Student-Course-Registration-System-End-to-End-Data-Management-and-Analysis-Using-SQL-Server](https://github.com/Osiwi/Student-Course-Registration-System-End-to-End-Data-Management-and-Analysis-Using-SQL-Server)
 
 #### DataKirk UK Work Experience Programme 2025  
 Practical data placement work: real-world style data cleaning, transformation, dashboarding, and insights delivery for business stakeholders.  
