@@ -40,12 +40,11 @@ Long-horizon support/resistance mapper that pulls up to ~10 years of daily candl
 
 ---
 
+### Operational Analytics & Business Intelligence
+
 #### Project Challenge Risk Prediction (ML)  
 Machine learning model for predicting project delivery challenges using SMOTE, model tuning, and F1/ROC evaluation.  
 [View Repository](https://github.com/Osiwi/Project-Challenge-Risk-Prediction-ml)
-
-
-### Operational Analytics & Business Intelligence
 
 #### Customer Insights and Product-Feedback Analysis (Clothing Retail)  
 Text and sentiment analysis of customer complaints and product reviews for a fashion retailer to identify quality issues, retention risks, and improvement opportunities.  
