@@ -35,8 +35,9 @@ Real-time multi-exchange scanner that ranks trading pairs by liquidity, realized
 [View Repository](https://github.com/Osiwi/Crypto_Scalp_Radar)
 
 #### Crypto Key Levels (10Y Historical S/R Map)  
-Long-horizon support/resistance mapper that pulls up to ~10 years of daily candles, builds rolling fair value + support/resistance bands, measures bull/bear regimes, and shows where current price sits relative to those levels.  
+Long-horizon support/resistance mapper that pulls up to ~10 years of daily candles, builds rolling fair value + support/resistance bands, measures bull/bear regimes, and shows where current price sits relative to those levels  
 [View Repository](https://github.com/Osiwi/Crypto_Key_Levels)
+
 ---
 
 ### Operational Analytics & Business Intelligence
