@@ -4,11 +4,11 @@
 
 #### ESG Funding Allocation Prediction  
 Machine learning model that predicts how funding should be allocated to companies by combining ESG performance scores with core financial indicators.  
-[View Repository](https://github.com/Osiwi/esg_funding_prediction)
+[View Repository](https://github.com/Osiwi/ESG_Funding_Prediction)
 
 #### ESG Portfolio Risk Management  
 Risk classification pipeline that labels assets or portfolios as high-risk vs low-risk using ESG stability, volatility, and macro context, and analyzes bull/bear regimes over time.  
-[View Repository](https://github.com/Osiwi/ESG_Risk_Management)
+[View Repository](https://github.com/Osiwi/ESG_Portfolio_Risk_Management_ml)
 
 #### ESG Multisector Analysis / Portfolio Optimization  
 Cross-sector ESG and financial performance analysis (Energy, Financial Services, Technology) to score segments, study the tradeoff between sustainability and returns, and inform allocation decisions.  
@@ -36,8 +36,7 @@ Real-time multi-exchange scanner that ranks trading pairs by liquidity, realized
 
 #### Crypto Key Levels (10Y Historical S/R Map)  
 Long-horizon support/resistance mapper that pulls up to ~10 years of daily candles, builds rolling fair value + support/resistance bands, measures bull/bear regimes, and shows where current price sits relative to those levels.  
-[View Repository](https://github.com/Osiwi/crypto_key_levels)
-
+[View Repository](https://github.com/Osiwi/Crypto_Key_Levels)
 ---
 
 ### Operational Analytics & Business Intelligence
